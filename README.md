@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsha--mantrodi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsha-mantrodi)
 [![GitHub](https://img.shields.io/badge/GitHub-HarshaMantrodi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshaMantrodi)
 [![Email](https://img.shields.io/badge/Email-harshamantrodi2515%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshamantrodi2515@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://harshamantrodi.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://harshamantrodi.github.io/github.io/)
 
 <br/>
 
@@ -156,7 +156,7 @@ fun_fact: "I bridge the gap between ML models and production infrastructure 🔁
 - 🔁 **MLOps Pipeline** — Integrating MLflow + Docker + CI/CD for end-to-end ML model lifecycle
 - 🌾 **FarmGenius** — ML-powered agriculture advisory application
 - 📊 **Data Analysis Series** — EDA projects across domains (sales, healthcare, finance)
-- 🌐 **Portfolio Website** — Personal site at [harshamantrodi.github.io](https://harshamantrodi.github.io)
+- 🌐 **Portfolio Website** — Personal site at [harshamantrodi.github.io](https://harshamantrodi.github.io/github.io/)
 
 ---
 
